@@ -1,0 +1,6 @@
+{
+  "name": "Aura Music - AI 감성 맞춤 음악 큐레이션",
+  "description": "실시간 감성 음향 분석 및 인공지능 기반 맞춤 음악 큐레이션 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
